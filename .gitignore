@@ -1,0 +1,4 @@
+/node_modules
+/.idea
+src/environments/node-environment.ts
+.DS_Store
